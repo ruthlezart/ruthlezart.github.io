@@ -1,0 +1,32 @@
+* {
+	font-family:sans-serif;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background: #00c916f;
+}
+
+.description { 
+	font-size: 18px;
+	background:darkred;
+	padding: 7%;
+ }
+
+ .row {
+ 	display: flex;
+ 	flex-direction: row;
+ 	justify-content: space-around;
+ }
+
+ .links {
+ 	background: pink;
+ 	padding: 3%;
+ 	border-radius: 10pm;
+    width: 50%;
+    float:right;	
+ }
+  
